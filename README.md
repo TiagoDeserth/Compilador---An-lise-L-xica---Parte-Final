@@ -1,2 +1,2 @@
-# Compilador---An-lise-L-xica---Parte-Final
-Compilador (Análise Léxica) para a disciplina de Compiladores
+# Compilador---An-lise-L-xica
+Implementação para a disciplina de Compiladores
